@@ -21,10 +21,48 @@ Problem Set
 
 Use [Applications of Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 2A | Approximation | 1, 3, 6, 11, 12a, 12d, 12e |
-| 2B | Curve sketching | 2a, 2e, 2h, 4, 6a, 6b, 7a, 7b 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2A
+{{< tdclose >}}
+{{< tdopen >}}
+Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+1, 3, 6, 11, 12a, 12d, 12e
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2B
+{{< tdclose >}}
+{{< tdopen >}}
+Curve sketching
+{{< tdclose >}}
+{{< tdopen >}}
+2a, 2e, 2h, 4, 6a, 6b, 7a, 7b
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

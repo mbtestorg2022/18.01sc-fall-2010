@@ -21,11 +21,60 @@ Problem Set
 
 Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 4B | Volumes by slicing; Volumes of revolution | 2 (Use parts 1e and 1g for the problem), 5 |
-| 4C | Volumes by shells | 2, 3 |
-| 4J | Other applications | 3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4B
+{{< tdclose >}}
+{{< tdopen >}}
+Volumes by slicing; Volumes of revolution
+{{< tdclose >}}
+{{< tdopen >}}
+2 (Use parts 1e and 1g for the problem), 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4C
+{{< tdclose >}}
+{{< tdopen >}}
+Volumes by shells
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4J
+{{< tdclose >}}
+{{< tdopen >}}
+Other applications
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

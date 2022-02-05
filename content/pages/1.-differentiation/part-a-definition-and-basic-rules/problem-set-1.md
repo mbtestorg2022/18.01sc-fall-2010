@@ -21,17 +21,132 @@ Problem Set
 
 Use [Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset1prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 1A | Graphing | 1b, 2b, 3a, 3b, 3e, 6b, 7b |
-| 1B | Velocity and rates of change | 1a, 1b, 1c |
-| 1C | Slope and derivative | 1a, 3a, 3b, 3e, 4a, 4b, 5, 6, 2 |
-| 1D | Limits and continuity | 1a, 1c, 1d, 1f, 1g, 3a, 3c, 3d, 3e, 6a, 8a |
-| 1E | Differentiation formulas, polynomials, products, quotients | 1a, 1c, 2b, 3, 4b, 5a, 5c |
-| 1J | Trigonometric functions | 1e, 2 |
-| 1F | Chain rule, implicit differentiation | 1a, 1b, 2, 6, 7b, 7c |
-| 1J | Trigonometric functions, continued | 1a, 1k, 1m |
-| 1G | Higher derivatives | 1b, 1c, 5a 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1A
+{{< tdclose >}}
+{{< tdopen >}}
+Graphing
+{{< tdclose >}}
+{{< tdopen >}}
+1b, 2b, 3a, 3b, 3e, 6b, 7b
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1B
+{{< tdclose >}}
+{{< tdopen >}}
+Velocity and rates of change
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1b, 1c
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1C
+{{< tdclose >}}
+{{< tdopen >}}
+Slope and derivative
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 3a, 3b, 3e, 4a, 4b, 5, 6, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1D
+{{< tdclose >}}
+{{< tdopen >}}
+Limits and continuity
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1c, 1d, 1f, 1g, 3a, 3c, 3d, 3e, 6a, 8a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1E
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation formulas, polynomials, products, quotients
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1c, 2b, 3, 4b, 5a, 5c
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1J
+{{< tdclose >}}
+{{< tdopen >}}
+Trigonometric functions
+{{< tdclose >}}
+{{< tdopen >}}
+1e, 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1F
+{{< tdclose >}}
+{{< tdopen >}}
+Chain rule, implicit differentiation
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1b, 2, 6, 7b, 7c
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1J
+{{< tdclose >}}
+{{< tdopen >}}
+Trigonometric functions, continued
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1k, 1m
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1G
+{{< tdclose >}}
+{{< tdopen >}}
+Higher derivatives
+{{< tdclose >}}
+{{< tdopen >}}
+1b, 1c, 5a
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

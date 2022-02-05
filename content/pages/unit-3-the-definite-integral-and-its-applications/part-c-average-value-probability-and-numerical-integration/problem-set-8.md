@@ -21,9 +21,36 @@ Problems Set
 
 Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb-2) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 4D | Average value | 2, 3, 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4D
+{{< tdclose >}}
+{{< tdopen >}}
+Average value
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

@@ -21,11 +21,60 @@ Problem Set
 
 Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb-3) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 4E | Parametric equations | 2, 3, 8 |
-| 4F | Arclength | 1d, 4, 5, 8 |
-| 4G | Surface area | 2, 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4E
+{{< tdclose >}}
+{{< tdopen >}}
+Parametric equations
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4F
+{{< tdclose >}}
+{{< tdopen >}}
+Arclength
+{{< tdclose >}}
+{{< tdopen >}}
+1d, 4, 5, 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4G
+{{< tdclose >}}
+{{< tdopen >}}
+Surface area
+{{< tdclose >}}
+{{< tdopen >}}
+2, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

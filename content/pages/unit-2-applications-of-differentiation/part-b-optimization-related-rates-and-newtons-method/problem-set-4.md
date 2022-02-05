@@ -21,11 +21,60 @@ Problems Set
 
 Use [Applications of Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 2C | Max-min problems | 1, 2, 4, 10, 13 |
-| 2E | Related rates | 2, 3, 5, 7 |
-| 2F | Locating zeroes; Newton's method | 1 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2C
+{{< tdclose >}}
+{{< tdopen >}}
+Max-min problems
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2, 4, 10, 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2E
+{{< tdclose >}}
+{{< tdopen >}}
+Related rates
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 5, 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2F
+{{< tdclose >}}
+{{< tdopen >}}
+Locating zeroes; Newton's method
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

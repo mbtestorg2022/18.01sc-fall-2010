@@ -21,28 +21,147 @@ Problem Set
 
 Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 3B | Definite integrals | 2a, 2b, 3b, 4a, 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3B
+{{< tdclose >}}
+{{< tdopen >}}
+Definite integrals
+{{< tdclose >}}
+{{< tdopen >}}
+2a, 2b, 3b, 4a, 5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 4J | Other applications | 1 (Set up integral, but don’t evaluate) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4J
+{{< tdclose >}}
+{{< tdopen >}}
+Other applications
+{{< tdclose >}}
+{{< tdopen >}}
+1 (Set up integral, but don’t evaluate)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 3C | Fundamental theorem of calculus | 1, 2a, 3a, 5a |
-| 3E | Change of variables; Estimating integrals | 6b, 6c 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3C
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental theorem of calculus
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2a, 3a, 5a
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3E
+{{< tdclose >}}
+{{< tdopen >}}
+Change of variables; Estimating integrals
+{{< tdclose >}}
+{{< tdopen >}}
+6b, 6c
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Applications of Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset4prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 4J | Other applications | 2 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4J
+{{< tdclose >}}
+{{< tdopen >}}
+Other applications
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

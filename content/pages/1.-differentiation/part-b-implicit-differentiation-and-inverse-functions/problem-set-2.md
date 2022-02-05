@@ -21,29 +21,159 @@ Problem Set
 
 Use [Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset1prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 1F | Chain rule, implicit differentiation | 3, 5, 8a, 8c |
-| 1G | Higher derivatives | 4, 5b 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1F
+{{< tdclose >}}
+{{< tdopen >}}
+Chain rule, implicit differentiation
+{{< tdclose >}}
+{{< tdopen >}}
+3, 5, 8a, 8c
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1G
+{{< tdclose >}}
+{{< tdopen >}}
+Higher derivatives
+{{< tdclose >}}
+{{< tdopen >}}
+4, 5b
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Integration Techniques (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 5A | Inverse trigonometric functions; Hyperbolic functions | 1a, 1b, 1c (just sin, cos, sec), 3f, 3g, 3h 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5A
+{{< tdclose >}}
+{{< tdopen >}}
+Inverse trigonometric functions; Hyperbolic functions
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1b, 1c (just sin, cos, sec), 3f, 3g, 3h
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset1prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 1H | Exponentials and Logarithms: Algebra | 1a, 1b, 2, 3a, 5b |
-| 1I | Exponentials and Logarithms: Calculus | 1c, 1d, 1e, 1f, 1m, 4a 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1H
+{{< tdclose >}}
+{{< tdopen >}}
+Exponentials and Logarithms: Algebra
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 1b, 2, 3a, 5b
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1I
+{{< tdclose >}}
+{{< tdopen >}}
+Exponentials and Logarithms: Calculus
+{{< tdclose >}}
+{{< tdopen >}}
+1c, 1d, 1e, 1f, 1m, 4a
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Integration Techniques (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 5A | Inverse trigonometric functions; Hyperbolic functions | 5a, 5b, 5c 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5A
+{{< tdclose >}}
+{{< tdopen >}}
+Inverse trigonometric functions; Hyperbolic functions
+{{< tdclose >}}
+{{< tdopen >}}
+5a, 5b, 5c
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

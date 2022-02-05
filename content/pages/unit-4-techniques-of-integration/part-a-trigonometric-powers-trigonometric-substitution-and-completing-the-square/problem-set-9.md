@@ -22,11 +22,60 @@ Problems Set
 
 Use [Integration Techniques (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5prb-1) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 5B | Integration by direct substitution | 9, 11, 13, 16 |
-| 5C | Trigonometric integrals | 5, 7, 9, 11 |
-| 5D | Integration by inverse substitution | 1, 2, 7, 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5B
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by direct substitution
+{{< tdclose >}}
+{{< tdopen >}}
+9, 11, 13, 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5C
+{{< tdclose >}}
+{{< tdopen >}}
+Trigonometric integrals
+{{< tdclose >}}
+{{< tdopen >}}
+5, 7, 9, 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5D
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by inverse substitution
+{{< tdclose >}}
+{{< tdopen >}}
+1, 2, 7, 10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

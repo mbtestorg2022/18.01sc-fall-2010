@@ -21,16 +21,81 @@ Problems Set
 
 Use [Applications of Differentiation (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset2prb-2) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 2G | Mean Value Theorem | 1b, 2b, 5, 6 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2G
+{{< tdclose >}}
+{{< tdopen >}}
+Mean Value Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+1b, 2b, 5, 6
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Use [Integration (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset3prb) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 3A | Differentials, indefinite integration | 1d, 1e, 2a, 2c, 2e, 2g, 2i, 2k, 3a, 3c, 3e, 3g |
-| 3F | Differential equations: Separation of variables | 1c, 1d, 2a, 2e, 4b, 4c, 4d, 8b 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3A
+{{< tdclose >}}
+{{< tdopen >}}
+Differentials, indefinite integration
+{{< tdclose >}}
+{{< tdopen >}}
+1d, 1e, 2a, 2c, 2e, 2g, 2i, 2k, 3a, 3c, 3e, 3g
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3F
+{{< tdclose >}}
+{{< tdopen >}}
+Differential equations: Separation of variables
+{{< tdclose >}}
+{{< tdopen >}}
+1c, 1d, 2a, 2e, 4b, 4c, 4d, 8b
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

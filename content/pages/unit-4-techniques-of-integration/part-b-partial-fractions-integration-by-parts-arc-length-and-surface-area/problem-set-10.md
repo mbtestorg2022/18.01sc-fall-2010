@@ -22,10 +22,48 @@ Problem Set
 
 Use [Integration Techniques (PDF)]({{< baseurl >}}/resources/mit18_01sc_pset5prb-2) to do the problems below.
 
-| Section | Topic | Exercises |
-| --- | --- | --- |
-| 5E | Integration by partial fractions | 2, 3, 5, 6, 10h (complete the square) |
-| 5F | Integration by parts; Reduction formulas | 1a, 2d, then 2b, 3 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Section
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Exercises
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5E
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by partial fractions
+{{< tdclose >}}
+{{< tdopen >}}
+2, 3, 5, 6, 10h (complete the square)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5F
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by parts; Reduction formulas
+{{< tdclose >}}
+{{< tdopen >}}
+1a, 2d, then 2b, 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Solutions
 

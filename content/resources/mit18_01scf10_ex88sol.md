@@ -4,6 +4,7 @@ description: This resource contains the solutions for the problems related to th
   rational expressions.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/30e0d666646354593044bb9e2349bd02_MIT18_01SCF10_ex88sol.pdf
 file_type: application/pdf
+parent_uid: 7a8cdab5-6a9e-46b3-5225-a2bc22295a0f
 resourcetype: Document
 title: MIT18_01SCF10_ex88sol.pdf
 uid: 30e0d666-6463-5459-3044-bb9e2349bd02

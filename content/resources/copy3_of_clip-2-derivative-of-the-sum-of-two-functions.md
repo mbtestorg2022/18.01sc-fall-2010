@@ -16,4 +16,4 @@ video_metadata:
 
 » [Accompanying Notes (PDF)]({{< baseurl >}}/resources/mit18_01scf10_ses6b)
 
-From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/pages/video-lectures)
+From Lecture 3 of [_18.01 Single Variable Calculus, Fall 2006_](/courses/18-01-single-variable-calculus-fall-2006/video_galleries/video-lectures)

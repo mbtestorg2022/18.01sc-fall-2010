@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 7e226a8f-f629-6ef6-9052-4c46584132b9
 resourcetype: Image
 title: lec23.jpg
 uid: e0770e20-ce79-0b63-59ed-e1f4abc7096b

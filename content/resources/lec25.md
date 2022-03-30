@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 602ce034-a62f-6b4a-9588-4c519f8f4412
 resourcetype: Image
 title: lec25.jpg
 uid: 6ec6f572-68c0-140d-1479-0876ca96fcf2

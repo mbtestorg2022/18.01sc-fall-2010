@@ -4,6 +4,7 @@ description: "This resource contains the solutions for the problems related to t
   \ con\uFB01rming an integral converges."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/d6bdcc7164b54c3e84165f05a34cdc60_MIT18_01SCF10_ex92sol.pdf
 file_type: application/pdf
+parent_uid: ed231e9c-5635-6bb1-e18c-555d00f08398
 resourcetype: Document
 title: MIT18_01SCF10_ex92sol.pdf
 uid: d6bdcc71-64b5-4c3e-8416-5f05a34cdc60

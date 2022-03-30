@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 48426d55-f5c6-23f4-eacc-4fd415a7a577
 resourcetype: Image
 title: lec33.jpg
 uid: c37d704d-f50f-cdf2-03ae-525e549f8c49

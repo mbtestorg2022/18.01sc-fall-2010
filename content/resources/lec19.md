@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 49d44d0c-d4d7-368f-b654-10f6924c7265
 resourcetype: Image
 title: lec19.jpg
 uid: 78f04b1b-cab2-87c7-0810-9748b73f010c

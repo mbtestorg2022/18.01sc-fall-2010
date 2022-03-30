@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 08bcebd8-87ee-223a-f847-41f0fef4d632
 resourcetype: Image
 title: lec14.jpg
 uid: d163bb93-a6e2-ede2-f0cf-edeb766ba7d2

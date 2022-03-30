@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 896b940a-6076-521f-f57b-68f0bccc57a0
 resourcetype: Image
 title: lec22.jpg
 uid: c9155da5-0d1b-ed83-655f-ae0d6f08642a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6c111f0f-1d0b-5fad-e36a-1ca3687104d2
 resourcetype: Image
 title: lec09.jpg
 uid: 581cba00-3af1-3ea8-a589-4a3e8c29f5c8

@@ -4,6 +4,7 @@ description: This resource contains the solutions for the problems related to th
   using the ratio test.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/deb763be346eb1b842a188b4d453149e_MIT18_01SCF10_ex95sol.pdf
 file_type: application/pdf
+parent_uid: e6b5bcf0-1d4f-e02c-b8f1-5ed900b23542
 resourcetype: Document
 title: MIT18_01SCF10_ex95sol.pdf
 uid: deb763be-346e-b1b8-42a1-88b4d453149e

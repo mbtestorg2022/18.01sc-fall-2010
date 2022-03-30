@@ -4,6 +4,7 @@ description: This resource contains solutions for the problem statements related
   combining theorem and the mean value theorem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-01sc-single-variable-calculus-fall-2010/d57f59c50b7fe8eae95e25e0f64a44d1_MIT18_01SCF10_ex50sol.pdf
 file_type: application/pdf
+parent_uid: 40dfd7f7-2524-55d1-041a-5ecfb183cd9f
 resourcetype: Document
 title: MIT18_01SCF10_ex50sol.pdf
 uid: d57f59c5-0b7f-e8ea-e95e-25e0f64a44d1

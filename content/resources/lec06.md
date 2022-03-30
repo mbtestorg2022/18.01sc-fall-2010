@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a08812a6-29e7-6732-837d-8a39d48fc8fa
 resourcetype: Image
 title: lec06.jpg
 uid: 3a99c48b-9975-9330-100c-d6c1ae21ec62
